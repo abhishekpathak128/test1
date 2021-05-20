@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=E:\ISE PRACTICE\led\led\led_blink.ncd
+OUTFILE=E:\ISE PRACTICE\led\led\led_blink.bit
+FAMILY=Zynq
+PART=xc7z020-1clg484
+WORKINGDIR=E:\ISE PRACTICE\led\led
+LICENSE=WebPack
+USER_INFO=__0_0_0

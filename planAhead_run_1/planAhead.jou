@@ -1,0 +1,11 @@
+#-----------------------------------------------------------
+# PlanAhead v14.7 (64-bit)
+# Build 321239 by xbuild on Fri Sep 27 19:29:51 MDT 2013
+# Start of session at: Wed May 19 22:53:35 2021
+# Process ID: 18600
+# Log file: E:/ISE PRACTICE/led/led/planAhead_run_1/planAhead.log
+# Journal file: E:/ISE PRACTICE/led/led/planAhead_run_1/planAhead.jou
+#-----------------------------------------------------------
+start_gui
+source {E:/ISE PRACTICE/led/led/pa.fromHdl.tcl}
+update_compile_order -fileset sim_1

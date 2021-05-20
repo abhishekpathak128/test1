@@ -1,0 +1,2 @@
+NET clk_50MHz          LOC = Y9   | IOSTANDARD=LVCMOS33;
+NET led           LOC = T22  | IOSTANDARD=LVCMOS33;
